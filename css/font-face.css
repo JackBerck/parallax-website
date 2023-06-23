@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cassannet';
+    src: url('../asset/Cassannet-Regular.woff2') format('woff2'),
+        url('../asset/Cassannet-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
